@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @inmakim
+- 👋 Hi, I’m @StéphaneJean
 - 👀 I’m interested in web development for now
 - 🌱 I’m currently learning html and css, I am just starting
 - 💞️ I’m looking to collaborate on ... i don´t really know yet
